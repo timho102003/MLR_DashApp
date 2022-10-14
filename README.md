@@ -1,5 +1,5 @@
 ### Dash App for Multi-Linear Regression 
-Run the App and go to [Integrated Data App]('http://127.0.0.1/8090')
+Run the App and go to [Integrated Data App](http://127.0.0.1/8090)
 ```
 python main.py
 ```
